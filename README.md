@@ -1,3 +1,3 @@
 # hello-world
-this is a test project
+this is a first GitHub project
 here is my edit.
